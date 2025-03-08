@@ -1,7 +1,3 @@
-Here’s a well-structured and visually appealing README file for your Smart Lock project:  
-
----
-
 # 🔒 Smart Lock – Secure Your Valuables with Ease  
 
 ## 📌 Overview  
